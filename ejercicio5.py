@@ -17,7 +17,7 @@ def evaluate(iter):
 
 
 def main():
-    result = evaluate(100000)
+    result = evaluate(1000000)
     print(result)
 
 

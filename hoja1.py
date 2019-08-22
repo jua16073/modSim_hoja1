@@ -35,7 +35,7 @@ def shierpinski(p = (40, 40), iterations = 100000):
   for point in ps:
     x.append(point[0])
     y.append(point[1])
-  plt.plot(x, y, 'ro')
+  plt.plot(x, y, '.')
 
   plt.show()
 
